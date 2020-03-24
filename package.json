@@ -8,8 +8,12 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "express": "^4.17.1",
+    "videojs-contrib-hls": "^5.15.0",
+    "videojs-flash": "^2.2.1",
     "vue": "^2.6.11",
-    "vue-router": "^3.1.5"
+    "vue-router": "^3.1.5",
+    "vue-video-player": "^5.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",

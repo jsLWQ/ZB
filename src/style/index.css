@@ -1,0 +1,4 @@
+.vjs-custom-skin > .video-js .vjs-progress-control.vjs-control {
+  visibility: hidden !important;
+  order: 2;
+}
